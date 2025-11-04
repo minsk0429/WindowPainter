@@ -84,4 +84,4 @@ java Main
 - 로딩 시 역순으로 읽어 `AbstractDrawingObject` 서브클래스를 복원
 
 ## 라이선스
-- 필요 시 라이선스를 추가하세요.
+- MIT License
